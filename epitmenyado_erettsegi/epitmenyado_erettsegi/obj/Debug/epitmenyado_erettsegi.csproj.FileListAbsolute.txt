@@ -1,0 +1,14 @@
+H:\12d progamozas\epitmenyado_erettsegi\epitmenyado_erettsegi\obj\Debug\epitmenyado_erettsegi.csproj.AssemblyReference.cache
+H:\12d progamozas\epitmenyado_erettsegi\epitmenyado_erettsegi\obj\Debug\epitmenyado_erettsegi.csproj.CoreCompileInputs.cache
+H:\12d progamozas\epitmenyado_erettsegi\epitmenyado_erettsegi\bin\Debug\epitmenyado_erettsegi.exe.config
+H:\12d progamozas\epitmenyado_erettsegi\epitmenyado_erettsegi\bin\Debug\epitmenyado_erettsegi.exe
+H:\12d progamozas\epitmenyado_erettsegi\epitmenyado_erettsegi\bin\Debug\epitmenyado_erettsegi.pdb
+H:\12d progamozas\epitmenyado_erettsegi\epitmenyado_erettsegi\obj\Debug\epitmenyado_erettsegi.exe
+H:\12d progamozas\epitmenyado_erettsegi\epitmenyado_erettsegi\obj\Debug\epitmenyado_erettsegi.pdb
+H:\2023kecsa\epitmenyado_erettsegi\epitmenyado_erettsegi\bin\Debug\epitmenyado_erettsegi.exe.config
+H:\2023kecsa\epitmenyado_erettsegi\epitmenyado_erettsegi\bin\Debug\epitmenyado_erettsegi.exe
+H:\2023kecsa\epitmenyado_erettsegi\epitmenyado_erettsegi\bin\Debug\epitmenyado_erettsegi.pdb
+H:\2023kecsa\epitmenyado_erettsegi\epitmenyado_erettsegi\obj\Debug\epitmenyado_erettsegi.csproj.AssemblyReference.cache
+H:\2023kecsa\epitmenyado_erettsegi\epitmenyado_erettsegi\obj\Debug\epitmenyado_erettsegi.csproj.CoreCompileInputs.cache
+H:\2023kecsa\epitmenyado_erettsegi\epitmenyado_erettsegi\obj\Debug\epitmenyado_erettsegi.exe
+H:\2023kecsa\epitmenyado_erettsegi\epitmenyado_erettsegi\obj\Debug\epitmenyado_erettsegi.pdb
