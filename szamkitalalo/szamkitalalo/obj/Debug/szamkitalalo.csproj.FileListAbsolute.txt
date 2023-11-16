@@ -1,0 +1,7 @@
+H:\12 asztali cucc\4.feladat\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.exe.config
+H:\12 asztali cucc\4.feladat\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.exe
+H:\12 asztali cucc\4.feladat\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.pdb
+H:\12 asztali cucc\4.feladat\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.AssemblyReference.cache
+H:\12 asztali cucc\4.feladat\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.CoreCompileInputs.cache
+H:\12 asztali cucc\4.feladat\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.exe
+H:\12 asztali cucc\4.feladat\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.pdb
