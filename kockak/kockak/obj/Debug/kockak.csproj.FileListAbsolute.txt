@@ -1,0 +1,7 @@
+H:\2023kecsa\kockak\kockak\bin\Debug\kockak.exe.config
+H:\2023kecsa\kockak\kockak\bin\Debug\kockak.exe
+H:\2023kecsa\kockak\kockak\bin\Debug\kockak.pdb
+H:\2023kecsa\kockak\kockak\obj\Debug\kockak.csproj.AssemblyReference.cache
+H:\2023kecsa\kockak\kockak\obj\Debug\kockak.csproj.CoreCompileInputs.cache
+H:\2023kecsa\kockak\kockak\obj\Debug\kockak.exe
+H:\2023kecsa\kockak\kockak\obj\Debug\kockak.pdb
