@@ -1,0 +1,7 @@
+H:\2023kecsa\max kivalasztas\max kivalasztas\obj\Debug\max kivalasztas.csproj.AssemblyReference.cache
+H:\2023kecsa\max kivalasztas\max kivalasztas\obj\Debug\max kivalasztas.csproj.CoreCompileInputs.cache
+H:\2023kecsa\max kivalasztas\max kivalasztas\bin\Debug\max kivalasztas.exe.config
+H:\2023kecsa\max kivalasztas\max kivalasztas\bin\Debug\max kivalasztas.exe
+H:\2023kecsa\max kivalasztas\max kivalasztas\bin\Debug\max kivalasztas.pdb
+H:\2023kecsa\max kivalasztas\max kivalasztas\obj\Debug\max kivalasztas.exe
+H:\2023kecsa\max kivalasztas\max kivalasztas\obj\Debug\max kivalasztas.pdb
