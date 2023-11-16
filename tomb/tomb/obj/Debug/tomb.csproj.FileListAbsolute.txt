@@ -1,0 +1,7 @@
+H:\2023kecsa\tomb\tomb\bin\Debug\tomb.exe.config
+H:\2023kecsa\tomb\tomb\bin\Debug\tomb.exe
+H:\2023kecsa\tomb\tomb\bin\Debug\tomb.pdb
+H:\2023kecsa\tomb\tomb\obj\Debug\tomb.csproj.AssemblyReference.cache
+H:\2023kecsa\tomb\tomb\obj\Debug\tomb.csproj.CoreCompileInputs.cache
+H:\2023kecsa\tomb\tomb\obj\Debug\tomb.exe
+H:\2023kecsa\tomb\tomb\obj\Debug\tomb.pdb
