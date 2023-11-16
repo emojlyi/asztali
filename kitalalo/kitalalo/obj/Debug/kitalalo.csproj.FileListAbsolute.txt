@@ -1,0 +1,7 @@
+H:\2023kecsa\kitalalo\kitalalo\bin\Debug\kitalalo.exe.config
+H:\2023kecsa\kitalalo\kitalalo\bin\Debug\kitalalo.exe
+H:\2023kecsa\kitalalo\kitalalo\bin\Debug\kitalalo.pdb
+H:\2023kecsa\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.AssemblyReference.cache
+H:\2023kecsa\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.CoreCompileInputs.cache
+H:\2023kecsa\kitalalo\kitalalo\obj\Debug\kitalalo.exe
+H:\2023kecsa\kitalalo\kitalalo\obj\Debug\kitalalo.pdb
