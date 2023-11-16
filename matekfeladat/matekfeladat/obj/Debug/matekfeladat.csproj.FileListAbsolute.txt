@@ -1,0 +1,7 @@
+H:\2023kecsa\matekfeladat\matekfeladat\obj\Debug\matekfeladat.csproj.AssemblyReference.cache
+H:\2023kecsa\matekfeladat\matekfeladat\obj\Debug\matekfeladat.csproj.CoreCompileInputs.cache
+H:\2023kecsa\matekfeladat\matekfeladat\bin\Debug\matekfeladat.exe.config
+H:\2023kecsa\matekfeladat\matekfeladat\bin\Debug\matekfeladat.exe
+H:\2023kecsa\matekfeladat\matekfeladat\bin\Debug\matekfeladat.pdb
+H:\2023kecsa\matekfeladat\matekfeladat\obj\Debug\matekfeladat.exe
+H:\2023kecsa\matekfeladat\matekfeladat\obj\Debug\matekfeladat.pdb
