@@ -1,0 +1,7 @@
+H:\2023kecsa\masodfok\masodfok\obj\Debug\masodfok.csproj.AssemblyReference.cache
+H:\2023kecsa\masodfok\masodfok\obj\Debug\masodfok.csproj.CoreCompileInputs.cache
+H:\2023kecsa\masodfok\masodfok\bin\Debug\masodfok.exe.config
+H:\2023kecsa\masodfok\masodfok\bin\Debug\masodfok.exe
+H:\2023kecsa\masodfok\masodfok\bin\Debug\masodfok.pdb
+H:\2023kecsa\masodfok\masodfok\obj\Debug\masodfok.exe
+H:\2023kecsa\masodfok\masodfok\obj\Debug\masodfok.pdb
