@@ -1,0 +1,7 @@
+H:\2023kecsa\kivonas szorzas osztas\kivonas szorzas osztas\bin\Debug\kivonas szorzas osztas.exe.config
+H:\2023kecsa\kivonas szorzas osztas\kivonas szorzas osztas\bin\Debug\kivonas szorzas osztas.exe
+H:\2023kecsa\kivonas szorzas osztas\kivonas szorzas osztas\bin\Debug\kivonas szorzas osztas.pdb
+H:\2023kecsa\kivonas szorzas osztas\kivonas szorzas osztas\obj\Debug\kivonas szorzas osztas.csproj.AssemblyReference.cache
+H:\2023kecsa\kivonas szorzas osztas\kivonas szorzas osztas\obj\Debug\kivonas szorzas osztas.csproj.CoreCompileInputs.cache
+H:\2023kecsa\kivonas szorzas osztas\kivonas szorzas osztas\obj\Debug\kivonas szorzas osztas.exe
+H:\2023kecsa\kivonas szorzas osztas\kivonas szorzas osztas\obj\Debug\kivonas szorzas osztas.pdb
